@@ -79,6 +79,8 @@ class Role {
     public Role accounting2;
     public Role engineer1;
     public Role engineer2;
+    public Role lawyer1;
+    public Role lawyer2;
 }
 class Employee {
 
